@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋
+My name is Arsenii Patutin, and I am currently a high schooler from Batumi, Georgia.
 
-<!--
-**arpatutin/arpatutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌My interests
+- Mathematics
+- Sports programming
+- Music (self-writing & playing guitar)
+- Acting
 
-Here are some ideas to get you started:
+⚡My skills
+- Python 3 (incl. Flask)
+- SQL
+- Unity scripting (C#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏅And finally, here are some of my achievements:
+- [RANEPA Olympiad in English 2023-24](https://www.ranepa.ru/olymp/) (🥈 place)
+- [Competify Fall International Math Championship 2024](https://competifyhub.com/competitions/) (🥈place)
+- to be continued :)
+
+💬 Do not hesitate to contact me in the following languages: Engish, German, Russian, Georgian. 
+
+📫You can reach me by the e-mail: arpatutin@outlook.com
+
+Good luck! 😊
