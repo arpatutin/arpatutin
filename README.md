@@ -1,5 +1,5 @@
 ## Hi there! 👋
-My name is Arsenii Patutin, and I am currently a high schooler from Batumi, Georgia.
+My name is Arsenii Patutin, and I am currently a DP1 student based in Venice, Italy.
 
 📌My interests
 - Mathematics
