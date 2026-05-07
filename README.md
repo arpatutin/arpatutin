@@ -1,24 +1,31 @@
 ## Hi there! 👋
-My name is Arsenii Patutin, and I am currently a DP1 student based in Venice, Italy.
+My name is Arsenii, and I am currently a DP1 student based in Treviso, Italy.
 
-📌My interests
+📌 My interests
 - Mathematics
-- Sports programming
-- Music (self-writing & playing guitar)
-- Acting
+- Competitive programming
 
-⚡My skills
+⚡ My skills
 - Python 3 (incl. Flask)
 - SQL
 - Unity scripting (C#)
+- Kotlin/Springboot
+- Fast docs reading and programming language learninf
 
-🏅And finally, here are some of my achievements:
+🏅 My achievements:
+- [Italian Informatics Olympiads in Teams](https://squadre.olinfo.it/about) (top 5% in Veneto)
+- [Constructor Open Cup 2025](https://constructor.university/lp/constructor-open-cup) (🏅 winner)
+- [Competify Fall International Math Championship 2024](https://competifyhub.com/competitions/) (🥈 place)
 - [RANEPA Olympiad in English 2023-24](https://www.ranepa.ru/olymp/) (🥈 place)
-- [Competify Fall International Math Championship 2024](https://competifyhub.com/competitions/) (🥈place)
 - to be continued :)
 
-💬 Do not hesitate to contact me in the following languages: Engish, German, Russian, Georgian. 
+💬 Languages:
+- Russian - native
+- English - fluent
+- German - fluent
+- Georgian - intermediate
+- Italian - basics
 
 📫You can reach me by the e-mail: arpatutin@outlook.com
 
-Good luck! 😊
+Good luck and thank you! 😊
